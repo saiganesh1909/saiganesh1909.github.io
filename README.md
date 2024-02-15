@@ -1,34 +1,7 @@
-DataAnalyst | Data Scientist | ML Engineer
-
-# Education
-
-Education and Training:
-
-Amrita Sai Institute of Science and Technology Vijayawada
-
-Bachelor's degree: Computer Science
-
-B.Tech. in Computer Science Engineering from Jawaharlal Nehru Technological University, Kakinada with -3.7cgpa
-
-University of New Haven CT, USA 
-
-Master of Technology in Data Science from the University of New Haven. Implemented Data Science Techniques. Concentration on Machine Learning, Natural Language Processing (NLP), and Aws with -3.6cgpa
-
-
-
-## Table of contents
-
-- [Features](#features)
-- [Sponsors 🏆](#sponsors)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Plans](#plans)
-- [Add your own content](#add-your-own-content)
-- [Customizing parameters for each page](#customizing-parameters-for-each-page)
-- [Supported parameters](#supported-parameters)
-- [Featured users (success stories!)](#featured-users-success-stories)
-- [Next steps](#next-steps)
-- [Getting help](#getting-help)
-- [Credits and contributions](#contributions)
+- [Education](#features)
+- [Projects 🏆](#sponsors)
+- [Work Experience](#plans)
+- [About](#add-your-own-content)
 
 # Features
 
