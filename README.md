@@ -1,4 +1,7 @@
-- [Education](#features)  - [Projects 🏆](#sponsors)  - [Work Experience](#plans)  - [About](#add-your-own-content)
+- [Education](#features)
+- [Projects 🏆](#sponsors)
+- [Work Experience](#plans)
+- [About](#add-your-own-content)
 
 # Features
 
