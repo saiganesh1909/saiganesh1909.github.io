@@ -1,17 +1,15 @@
-# Sai Ganesh Ramesetti
 DataAnalyst | Data Scientist | ML Engineer
 
-##Education
-data science in univeristy of new haven
-# Beautiful Jekyll
+# Education
 
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+Education and Training   	
+_ 	Amrita Sai Institute of Science and Technology Vijayawada
+Bachelor's degree: Computer Science
+B.Tech. in Computer Science Engineering from Jawaharlal Nehru Technological University, Kakinada with -3.7cgpa
+	University of New Haven CT, USA 
+Master of Technology in Data Science from the University of New Haven. Implemented Data Science Techniques. Concentration on Machine Learning, Natural Language Processing (NLP), and Aws with -3.6cgpa
 
-> By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
-**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
-
-**If you enjoy Beautiful Jekyll, please consider [supporting me](https://github.com/sponsors/daattali). You'll also gain access to office hours and more features! ❤**
 
 ## Table of contents
 
