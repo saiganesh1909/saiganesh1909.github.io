@@ -2,11 +2,16 @@ DataAnalyst | Data Scientist | ML Engineer
 
 # Education
 
-Education and Training   	
-_ 	Amrita Sai Institute of Science and Technology Vijayawada
+Education and Training:
+
+Amrita Sai Institute of Science and Technology Vijayawada
+
 Bachelor's degree: Computer Science
+
 B.Tech. in Computer Science Engineering from Jawaharlal Nehru Technological University, Kakinada with -3.7cgpa
-	University of New Haven CT, USA 
+
+University of New Haven CT, USA 
+
 Master of Technology in Data Science from the University of New Haven. Implemented Data Science Techniques. Concentration on Machine Learning, Natural Language Processing (NLP), and Aws with -3.6cgpa
 
 
