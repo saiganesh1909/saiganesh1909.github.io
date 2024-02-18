@@ -5,7 +5,7 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">saiganesh1909.github.io/home</a>
+    <a href="https://saiganesh1909.github.io/home">Sai Ganesh/home</a>
     <br />
     <br />
     <a href="https://saiganesh1909.github.io">About Me</a>
